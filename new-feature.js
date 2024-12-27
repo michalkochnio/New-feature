@@ -1,2 +1,2 @@
 console.log("new feature");
-console.log("ex1");
+console.log("ex2");
